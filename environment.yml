@@ -1,0 +1,12 @@
+name: meteo203
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10.14
+  - numpy
+  - scipy
+  - matplotlib
+  - cartopy
+  - pandas
+  - seaborn
+  - ipykernel
