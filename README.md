@@ -10,6 +10,10 @@ Think of this section as a short diary of your work. Add the date and briefly de
 
 Example:
 
+### 16 September 2026 Afternoon
+
+Updated this file for github demo
+
 ### 16 September 2026
 
 - Uploaded `exercise_01_simulatingwaves.ipynb`
