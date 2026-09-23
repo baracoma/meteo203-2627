@@ -70,7 +70,6 @@ dependencies:
   - libhwloc=2.12.1=default_hfa10c62_1000
   - openjpeg=2.5.2=hae555c5_0
   - python=3.11.15=h1044e36_0
-  - asttokens=3.0.1=py311haa95532_0
   - attrs=26.1.0=py311h35db113_0
   - cairo=1.18.4=he9e932c_0
   - certifi=2026.4.22=py311haa95532_0
