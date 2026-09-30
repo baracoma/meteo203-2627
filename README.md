@@ -32,6 +32,7 @@ For instructions on markdown syntax, please visit the following websites
     - [`03_eda/03d_dummytempdata.ipynb`](lessons/03_eda/03d_dummytempdata.ipynb)
 - There was a previous issue with the seaborn package not being included in the environment. Updated [`environment.yml`](environment.yml) to be leaner. Hopefully it works better this time.
     - For installation of the environment, follow [`lessons/01_setup/03_Deploying_Meteo203_Environment.ipynb`](lessons/01_setup/03_Deploying_Meteo203_Environment.ipynb)
+- Uploaded  [`exercises/exercise_04_eda.ipynb`](exercises/exercise_04_eda.ipynb) in case you want to start early.
 
 ### 23 September 2026
 This is the start of the probability exercise. 
