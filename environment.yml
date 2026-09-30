@@ -11,3 +11,4 @@ dependencies:
   - pandas
   - cartopy
   - ipykernel
+  - seaborn

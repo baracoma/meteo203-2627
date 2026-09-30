@@ -23,12 +23,22 @@ For instructions on markdown syntax, please visit the following websites
 1. [Jupyter Lab Markdown Cells](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html)
 2. [Markdown Guide Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
+### 30 September 2026
+- Clean up of old links. You can now click the links in this README.md to go the different exercises
+- Uploaded the following in `lessons`
+    - [`03_eda/03a_statistics_EDA.ipynb`](lessons/03_eda/03a_statistics_EDA.ipynb)
+    - [`03_eda/03b_robustnessandresistance.ipynb`](lessons/03_eda/03b_robustnessandresistance.ipynb)
+    - [`03_eda/03c_reexpression.ipynb`](lessons/03_eda/03c_reexpression.ipynb)
+    - [`03_eda/03d_dummytempdata.ipynb`](lessons/03_eda/03d_dummytempdata.ipynb)
+- There was a previous issue with the seaborn package not being included in the environment. Updated [`environment.yml`](environment.yml) to be leaner. Hopefully it works better this time.
+    - For installation of the environment, follow [`lessons/01_setup/03_Deploying_Meteo203_Environment.ipynb`](lessons/01_setup/03_Deploying_Meteo203_Environment.ipynb)
+
 ### 23 September 2026
 This is the start of the probability exercise. 
 
 - Updated `README.md` to include links to Markdown syntax
-- Uploaded `exercise_03_01_probability_intro.ipynb`
-- Uploaded `exercise_03_02_probability_science_garden.ipynb`
+- Uploaded [`exercise_03_01_probability_intro.ipynb`](exercises/exercise_03_01_probability_intro.ipynb)
+- Uploaded [`exercise_03_02_probability_science_garden.ipynb`](exercises/exercise_03_02_probability_science_garden.ipynb)
 - Uploaded Science Garden data in the `data` folder.
 
 ### 16 September 2026 Afternoon
@@ -37,8 +47,8 @@ Updated this file for github demo
 
 ### 16 September 2026
 
-- Uploaded `exercise_01_simulatingwaves.ipynb`
-- Uploaded `exercise_02_wavenumbers.ipynb`
+- Uploaded [`exercise_01_simulatingwaves.ipynb`](exercises/exercise_01_simulatingwaves.ipynb)
+- Uploaded [`exercise_02_wavenumbers.ipynb`](exercises/exercise_02_wavenumbers.ipynb)
 - Consolidated the exercise notebooks under the `exercises/` folder.
 
 ---
