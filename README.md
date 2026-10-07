@@ -23,6 +23,11 @@ For instructions on markdown syntax, please visit the following websites
 1. [Jupyter Lab Markdown Cells](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html)
 2. [Markdown Guide Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
+### 7 October 2026
+- Updloaded the following in `lessons`
+    - [`04_eda_paired/04a_pearson_correlation.ipynb`](lessons/04_eda_paired/04a_pearson_correlation.ipynb)
+    - [`04_eda_paired/04b_spearman_kendall_serial_autocorrelation.ipynb`](lessons/04_eda_paired/04b_spearman_kendall_serial_autocorrelation.ipynb)
+
 ### 30 September 2026
 - Clean up of old links. You can now click the links in this README.md to go the different exercises
 - Uploaded the following in `lessons`
