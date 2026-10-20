@@ -24,6 +24,7 @@ For instructions on markdown syntax, please visit the following websites
 2. [Markdown Guide Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
 ### 20 October 2026
+- **WARNING**: Do NOT upload your data in your github repo, unless you want to break things.
 - Data for today's lecture has been uploaded to [`Google Drive`](https://drive.google.com/drive/folders/1uQSjXSXBeMfY2TCCLVsgyjoFJzwDVr4U?usp=sharing). Please download the following files and ave it in a folder of your chooing
   - `3B-MO.MS.MRG.3IMERG.20090901-S000000-E235959.09.V07B.HDF5`
   - `philippines_2009_09_27.nc`
