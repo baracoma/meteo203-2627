@@ -1,0 +1,15 @@
+name: gridded_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - scipy
+  - matplotlib
+  - xarray
+  - cartopy
+  - netCDF4
+  - h5py
+  - cfgrib
+  - eccodes
+  - ipykernel

@@ -23,10 +23,30 @@ For instructions on markdown syntax, please visit the following websites
 1. [Jupyter Lab Markdown Cells](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html)
 2. [Markdown Guide Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
+### 20 October 2026
+- Data for today's lecture has been uploaded to [`Google Drive`](https://drive.google.com/drive/folders/1uQSjXSXBeMfY2TCCLVsgyjoFJzwDVr4U?usp=sharing). Please download the following files and ave it in a folder of your chooing
+  - `3B-MO.MS.MRG.3IMERG.20090901-S000000-E235959.09.V07B.HDF5`
+  - `philippines_2009_09_27.nc`
+- Suggested folder path: `meteo203-2627-lastname/data/`
+- The following notebooks are also uploaded
+  -  [`exercises/exercise_06_gridded_era5.ipynb`](exercises/exercise_06_gridded_era5.ipynb)
+  -  [`lessons/05_gridded/05_gpm.ipynb`](lessons/05_gridded/05_gpm.ipynb)
+
+### We need to finally deploy environments. 
+
+General instructions can be found in [`lessons/01_setup/03_Deploying_Meteo203_Environment.ipynb`](lessons/01_setup/03_Deploying_Meteo203_Environment.ipynb), but specific steps can be found below
+- `conda install -c conda-forge nb_conda_kernels`
+- `conda env create -f gridded_environment.yml --solver=libmamba`
+
 ### 7 October 2026
 - Updloaded the following in `lessons`
     - [`04_eda_paired/04a_pearson_correlation.ipynb`](lessons/04_eda_paired/04a_pearson_correlation.ipynb)
     - [`04_eda_paired/04b_spearman_kendall_serial_autocorrelation.ipynb`](lessons/04_eda_paired/04b_spearman_kendall_serial_autocorrelation.ipynb)
+- IMPORTANT: we need to install the `gridded_environment.yml` environment. Follow the setup instructions in the notebook below, while replacing `environment.yml` with `gridded_environment.yml`
+  - [`lessons/01_setup/03_Deploying_Meteo203_Environment.ipynb`](lessons/01_setup/03_Deploying_Meteo203_Environment.ipynb)
+  - `conda env create -f gridded_environment.yml --solver=libmamba`
+  - `conda activate base`
+  - `conda install -c conda-forge nb_conda_kernels`
 
 ### 30 September 2026
 - Clean up of old links. You can now click the links in this README.md to go the different exercises
