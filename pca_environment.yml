@@ -1,0 +1,17 @@
+name: pca_env
+
+channels:
+  - conda-forge
+  - nodefaults
+
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - xarray
+  - dask
+  - netcdf4
+  - matplotlib
+  - cartopy
+  - xeofs
+  - ipykernel
