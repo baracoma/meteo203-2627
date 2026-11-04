@@ -23,6 +23,18 @@ For instructions on markdown syntax, please visit the following websites
 1. [Jupyter Lab Markdown Cells](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html)
 2. [Markdown Guide Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
+### 4 November 2026
+-  Data for today's lecture has been uploaded to [`Google Drive`](hhttps://drive.google.com/file/d/1RzfZv9sADLD-wdvObMHnURDUGFS7OLI4/view). You are looking for `era5-surface-wind-monthly.zip` which you'll be extracting in `data/era5-surface-wind-monthly`
+- The following notebooks are also uploaded
+    - [`lessons/06_pca/06a_intro_to_pca.ipynb`](lessons/06_pca/06a_intro_to_pca.ipynb)
+    - [`exercises/exercise_07_pca.ipynb`](exercises/exercise_07_pca.ipynb)
+- I am also including the final exercise in this version, if you want a headstart.  
+    - [`exercises/exercise_08_final.ipynb`](exercises/exercise_08_final.ipynb)
+- The following environment yml files are also included in the most recent version of this repository 
+    - [`pca_environment.yml`](pca_environment.yml)
+    - Install using the following instructions
+        - `conda env create -f pca_environment.yml --solver=libmamba` 
+
 ### 20 October 2026
 - **WARNING**: Do NOT upload your data in your github repo, unless you want to break things.
 - Data for today's lecture has been uploaded to [`Google Drive`](https://drive.google.com/drive/folders/1uQSjXSXBeMfY2TCCLVsgyjoFJzwDVr4U?usp=sharing). Please download the following files and ave it in a folder of your chooing
